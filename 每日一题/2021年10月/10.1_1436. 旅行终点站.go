@@ -28,5 +28,5 @@ func destCity(paths [][]string) string {
 }
 func main()  {
 	path:=[][]string{{"London","New York"},{"New York","Lima"},{"Lima","Sao Paulo"}}
-	fmt.Print(destCity(path))
+	fmt.Println(destCity(path))
 }
