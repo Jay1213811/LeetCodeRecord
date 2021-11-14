@@ -31,6 +31,7 @@ func combine(n int, k int) [][]int {
 			path=append(path,i)//处理节点
 			dfs(i+1,path)	//backtracking(路径,选择列表)
 			path=path[:len(path)-1]//回溯，撤销处理结果
+			start=start-1
 
 		}
 	}
@@ -40,14 +41,6 @@ func combine(n int, k int) [][]int {
 
 }
 func main()  {
-	fmt.Println(combine(4,2))
+	fmt.Println(combine(3,3))
 }
-/*
-递归参数:
-result存放符合条件结果的集合
-path存放符合条件的结果
-n和k代表从【1，n】取有可能的k个组合
-每次从集合中选取元素，可选择的范围随着选择的进行而收缩，调整可选择的范围，就是要靠
-startIndex。
-*/
 
