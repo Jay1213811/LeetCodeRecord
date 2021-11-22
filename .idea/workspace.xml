@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8305b1e0-bd08-42ad-9c20-afa0068f3f45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.README.md.swp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/比赛/267场周赛/5926. 买票需要的时间.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/比赛/267场周赛/5927. 反转偶数长度组的节点.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/比赛/267场周赛/5928. 解码斜向换位密码.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2021年10月/391. 完美矩形.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/比赛/第 268 场周赛/5201. 给植物浇水.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/比赛/第 268 场周赛/5930. 两栋颜色不同且距离最远的房子.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/比赛/第 268 场周赛/5933. k 镜像数字的和.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法思想/回溯算法/组合问题/k个数组合问题.go" beforeDir="false" afterPath="$PROJECT_DIR$/算法思想/回溯算法/组合问题/k个数组合问题.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,29 +54,29 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
-  <component name="RunManager" selected="Go Build.go build 5928. 解码斜向换位密码.go">
+  <component name="RunManager" selected="Go Build.go build 5933. k 镜像数字的和.go">
+    <configuration name="go build 391. 完美矩形.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go语言练习" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/每日一题/2021年10月/391. 完美矩形.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 5201. 给植物浇水.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go语言练习" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/比赛/第 268 场周赛/5201. 给植物浇水.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build 5851. 找出不同的二进制字符串.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="Go语言练习" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/比赛/5851. 找出不同的二进制字符串.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 5919. 所有子字符串中的元音.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go语言练习" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/比赛/第 266 场周赛/5919. 所有子字符串中的元音.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 5920. 分配给商店的最多商品的最小值.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go语言练习" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/比赛/第 266 场周赛/5920. 分配给商店的最多商品的最小值.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 5926. 买票需要的时间.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -96,6 +95,14 @@
       <filePath value="$PROJECT_DIR$/比赛/267场周赛/5928. 解码斜向换位密码.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build 5933. k 镜像数字的和.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go语言练习" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/比赛/第 268 场周赛/5933. k 镜像数字的和.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build Go语言LeetCode刷题 1. 开幕式焰火.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="Go语言练习" />
       <working_directory value="$PROJECT_DIR$/比赛/力扣杯秋季赛" />
@@ -105,30 +112,22 @@
       <filePath value="$PROJECT_DIR$/../Go语言LeetCode刷题|$PROJECT_DIR$/比赛/力扣杯秋季赛/1. 开幕式焰火.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build k个数组合问题.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go语言练习" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/算法思想/回溯算法/组合问题/k个数组合问题.go" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Go Build.go build 5851. 找出不同的二进制字符串.go" />
       <item itemvalue="Go Build.go build Go语言LeetCode刷题 1. 开幕式焰火.go" />
-      <item itemvalue="Go Build.go build 5919. 所有子字符串中的元音.go" />
-      <item itemvalue="Go Build.go build 5920. 分配给商店的最多商品的最小值.go" />
-      <item itemvalue="Go Build.go build k个数组合问题.go" />
       <item itemvalue="Go Build.go build 5926. 买票需要的时间.go" />
       <item itemvalue="Go Build.go build 5928. 解码斜向换位密码.go" />
+      <item itemvalue="Go Build.go build 391. 完美矩形.go" />
+      <item itemvalue="Go Build.go build 5201. 给植物浇水.go" />
+      <item itemvalue="Go Build.go build 5933. k 镜像数字的和.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 5933. k 镜像数字的和.go" />
+        <item itemvalue="Go Build.go build 5201. 给植物浇水.go" />
+        <item itemvalue="Go Build.go build 391. 完美矩形.go" />
         <item itemvalue="Go Build.go build 5928. 解码斜向换位密码.go" />
         <item itemvalue="Go Build.go build 5926. 买票需要的时间.go" />
-        <item itemvalue="Go Build.go build k个数组合问题.go" />
-        <item itemvalue="Go Build.go build 5920. 分配给商店的最多商品的最小值.go" />
-        <item itemvalue="Go Build.go build 5919. 所有子字符串中的元音.go" />
       </list>
     </recent_temporary>
   </component>
@@ -415,6 +414,26 @@
           <url>file://$PROJECT_DIR$/比赛/267场周赛/5928. 解码斜向换位密码.go</url>
           <line>35</line>
           <option name="timeStamp" value="439" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/每日一题/2021年10月/391. 完美矩形.go</url>
+          <line>41</line>
+          <option name="timeStamp" value="441" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/每日一题/2021年10月/391. 完美矩形.go</url>
+          <line>48</line>
+          <option name="timeStamp" value="442" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/比赛/第 268 场周赛/5201. 给植物浇水.go</url>
+          <line>8</line>
+          <option name="timeStamp" value="443" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/比赛/第 268 场周赛/5933. k 镜像数字的和.go</url>
+          <line>40</line>
+          <option name="timeStamp" value="451" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
