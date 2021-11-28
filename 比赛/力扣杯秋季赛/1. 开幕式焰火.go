@@ -2,52 +2,40 @@ package main
 
 import "fmt"
 
-// Definition for a binary tree node.
- type TreeNode struct {
-    Val int
-    Left *TreeNode
-  	Right *TreeNode
-}
-
-func numColor(root *TreeNode) int {
-	vals:=[]int{}
-	vals=preorderTraversal(root)
-	Rm_duplicate(vals)
-	return len(vals)
-
-}
-func Rm_duplicate(list []int) []int {
-	var x []int = []int{}
-	for _, i := range list {
-		if len(x) == 0 {
-			x = append(x, i)
-		} else {
-			for k, v := range x {
-				if i == v {
-					break
-				}
-				if k == len(x)-1 {
-					x = append(x, i)
-				}
+func findAllPeople(n int, meetings [][]int, firstPerson int) []int {
+	//根据时间排序
+	for i:=0;i<len(meetings);i++{
+		for j:=i+1;j<len(meetings);j++{
+			if meetings[i][2]>meetings[j][2]{
+				meetings[i],meetings[j]=meetings[j],meetings[i]
 			}
 		}
 	}
-	return x
-}
-func preorderTraversal(root *TreeNode) (vals []int) {
-	var preorder func(*TreeNode)
-	preorder = func(node *TreeNode) {
-		if node == nil {
-			return
+	res:=[]int{}
+	res=append(res,0)
+	res=append(res,firstPerson)
+	for i:=0;i<len(meetings);i++{
+		if judge(res,meetings[i][0])==true && judge(res,meetings[i][1])!=true{
+			res=append(res,meetings[i][1])
+		}else if judge(res,meetings[i][0])!=true && judge(res,meetings[i][1])==true{
+			res=append(res,meetings[i][0])
+		}else{
+			continue
 		}
-		vals = append(vals, node.Val)
-		preorder(node.Left)
-		preorder(node.Right)
 	}
-	preorder(root)
-	return
+	return res
+}
+func judge(nums []int,target int)bool{
+	for _,v:=range nums{
+		if v==target{
+			return true
+		}
+	}
+	return false
 }
 func main()  {
-	var node = &TreeNode{Val: 1, Left: &TreeNode{Val: 2}, Right: &TreeNode{Val: 2}}
-	fmt.Println(numColor(node))
+	n:=4
+	//meetings:=[][]int{{1,2,5},{2,3,8},{1,5,10}}
+	meetings:=[][]int{{3,1,3},{1,2,2},{0,3,3}}
+	fmt.Println(findAllPeople(n,meetings,3))
 }
