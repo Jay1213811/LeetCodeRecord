@@ -12,6 +12,8 @@ import "fmt"
 //移动right节点,如果s[left]==s[right] 移动right即可
 //如果不等于左边 left++ right++ maxLen=max(maxLen,right-left+1)
 //
+
+
 func maxPower(s string) int {
 	left,right:=0,0
 	maxLen:=0
@@ -36,4 +38,5 @@ func max(a,b int)int{
 }
 func main()  {
 	fmt.Println(maxPower("aa"))
+
 }
