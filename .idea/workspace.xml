@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8305b1e0-bd08-42ad-9c20-afa0068f3f45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ACwing/算法基础课/1.排序/基本模版/快速排序模版.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACwing/算法基础课/4.双指针算法/基本模版/双指针算法模版.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACwing/算法基础课/位运算/基本模版.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ACwing/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ACwing/.idea/ACwing.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ACwing/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ACwing/算法基础课/第一章基础算法/6.双指针算法.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/2021年12月/1446连续字符(12.1).go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2021年12月/1446连续字符(12.1).go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACwing/算法基础课/4.双指针算法/基本模版/双指针算法模版.md" beforeDir="false" afterPath="$PROJECT_DIR$/ACwing/算法基础课/4.双指针算法/基本模版/双指针算法模版.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
