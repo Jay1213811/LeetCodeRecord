@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8305b1e0-bd08-42ad-9c20-afa0068f3f45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/每日一题/2021年12月/506. 相对名次(12.2).go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACwing/算法基础课/4.双指针算法/相关题目/15三数之和.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACwing/算法基础课/4.双指针算法/相关题目/16. 最接近的三数之和.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACwing/算法基础课/4.双指针算法/相关题目/18. 四数之和.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACwing/算法基础课/2.二分/基本模版/3.整数二分.go" beforeDir="false" afterPath="$PROJECT_DIR$/ACwing/算法基础课/2.二分/基本模版/整数二分.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACwing/算法基础课/3.前缀和差分/基本模版/一维前缀和.go" beforeDir="false" afterPath="$PROJECT_DIR$/ACwing/算法基础课/3.前缀和差分/基本模版/一维前缀和.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACwing/算法基础课/4.双指针算法/基本模版/双指针算法模版.md" beforeDir="false" afterPath="$PROJECT_DIR$/ACwing/算法基础课/4.双指针算法/基本模版/双指针算法模版.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +66,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ACwing/算法基础课/2.二分/基本模版" />
       <recent name="$PROJECT_DIR$/ACwing/算法基础课/4.双指针算法/基本模版." />
       <recent name="$PROJECT_DIR$/ACwing/算法基础课/4.双指针算法/基本模版" />
       <recent name="$PROJECT_DIR$/ACwing/算法基础课/1.排序/基本模版" />
