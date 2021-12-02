@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8305b1e0-bd08-42ad-9c20-afa0068f3f45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ACwing/算法基础课/位运算/基本模版.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2021年12月/506. 相对名次(12.2).go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ACwing/算法基础课/4.双指针算法/基本模版/双指针算法模版.md" beforeDir="false" afterPath="$PROJECT_DIR$/ACwing/算法基础课/4.双指针算法/基本模版/双指针算法模版.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,7 @@
       <recent name="$PROJECT_DIR$/ACwing/算法基础课/1.排序/基本模版" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build 1446连续字符(12.1).go">
+  <component name="RunManager" selected="Go Build.go build 506. 相对名次(12.2).go">
     <configuration name="go build 1446连续字符(12.1).go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go语言练习" />
       <working_directory value="$PROJECT_DIR$" />
@@ -90,6 +89,14 @@
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/比赛/力扣杯秋季赛/1. 开幕式焰火.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 506. 相对名次(12.2).go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go语言练习" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/每日一题/2021年12月/506. 相对名次(12.2).go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 5851. 找出不同的二进制字符串.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
@@ -117,30 +124,22 @@
       <filePath value="$PROJECT_DIR$/../Go语言LeetCode刷题|$PROJECT_DIR$/比赛/力扣杯秋季赛/1. 开幕式焰火.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 二元选择排序.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go语言练习" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/排序算法/二元选择排序.go" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Go Build.go build 5851. 找出不同的二进制字符串.go" />
       <item itemvalue="Go Build.go build Go语言LeetCode刷题 1. 开幕式焰火.go" />
       <item itemvalue="Go Build.go build 1. 开幕式焰火.go" />
-      <item itemvalue="Go Build.go build 二元选择排序.go" />
       <item itemvalue="Go Build.go build 786. 第 K 个最小的素数分数.go" />
       <item itemvalue="Go Build.go build 1446连续字符.go" />
       <item itemvalue="Go Build.go build 1446连续字符(12.1).go" />
+      <item itemvalue="Go Build.go build 506. 相对名次(12.2).go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 506. 相对名次(12.2).go" />
         <item itemvalue="Go Build.go build 1446连续字符(12.1).go" />
         <item itemvalue="Go Build.go build 1446连续字符.go" />
         <item itemvalue="Go Build.go build 1. 开幕式焰火.go" />
         <item itemvalue="Go Build.go build 786. 第 K 个最小的素数分数.go" />
-        <item itemvalue="Go Build.go build 二元选择排序.go" />
       </list>
     </recent_temporary>
   </component>
@@ -452,6 +451,11 @@
           <url>file://$PROJECT_DIR$/周赛/2021年12月/1446连续字符(12.1).go</url>
           <line>17</line>
           <option name="timeStamp" value="453" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/每日一题/2021年12月/506. 相对名次(12.2).go</url>
+          <line>19</line>
+          <option name="timeStamp" value="455" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
