@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8305b1e0-bd08-42ad-9c20-afa0068f3f45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ACwing/算法基础课/4.双指针算法/相关题目/27. 移除元素.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/每日一题/2021年12月/1005. K 次取反后最大化的数组和(12.3).go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACwing/算法基础课/5.位运算/相关题目/abs.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACwing/算法基础课/6.离散化/基本模版/离散化.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACwing/算法基础课/位运算/基本模版.md" beforeDir="false" afterPath="$PROJECT_DIR$/ACwing/算法基础课/5.位运算/基本模版/基本模版.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +63,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ACwing/算法基础课/位运算/基本模版" />
       <recent name="$PROJECT_DIR$/ACwing/算法基础课/2.二分/基本模版" />
       <recent name="$PROJECT_DIR$/ACwing/算法基础课/4.双指针算法/基本模版." />
       <recent name="$PROJECT_DIR$/ACwing/算法基础课/4.双指针算法/基本模版" />
       <recent name="$PROJECT_DIR$/ACwing/算法基础课/1.排序/基本模版" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build 506. 相对名次(12.2).go">
+  <component name="RunManager" selected="Go Build.go build 1.go (1)">
     <configuration name="go build 1446连续字符(12.1).go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go语言练习" />
       <working_directory value="$PROJECT_DIR$" />
@@ -77,20 +79,28 @@
       <filePath value="$PROJECT_DIR$/每日一题/2021年12月/1446连续字符(12.1).go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 1446连续字符.go" type="GoApplicationRunConfiguration" factoryName="Go Application" singleton="false" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 1.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go语言练习" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/周赛/2021年12月/1446连续字符.go" />
+      <filePath value="$PROJECT_DIR$/ACwing/算法基础课/位运算/相关题目/1.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 1. 开幕式焰火.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go语言练习" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/比赛/力扣杯秋季赛/1. 开幕式焰火.go" />
+      <filePath value="$PROJECT_DIR$/ACwing/算法基础课/4.双指针算法/相关题目/1.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go语言练习" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ACwing/算法基础课/4.双指针算法/相关题目/2.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 506. 相对名次(12.2).go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -109,14 +119,6 @@
       <filePath value="$PROJECT_DIR$/比赛/5851. 找出不同的二进制字符串.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 786. 第 K 个最小的素数分数.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go语言练习" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/每日一题/786. 第 K 个最小的素数分数.go" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build Go语言LeetCode刷题 1. 开幕式焰火.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="Go语言练习" />
       <working_directory value="$PROJECT_DIR$/比赛/力扣杯秋季赛" />
@@ -129,19 +131,19 @@
     <list>
       <item itemvalue="Go Build.go build 5851. 找出不同的二进制字符串.go" />
       <item itemvalue="Go Build.go build Go语言LeetCode刷题 1. 开幕式焰火.go" />
-      <item itemvalue="Go Build.go build 1. 开幕式焰火.go" />
-      <item itemvalue="Go Build.go build 786. 第 K 个最小的素数分数.go" />
-      <item itemvalue="Go Build.go build 1446连续字符.go" />
       <item itemvalue="Go Build.go build 1446连续字符(12.1).go" />
       <item itemvalue="Go Build.go build 506. 相对名次(12.2).go" />
+      <item itemvalue="Go Build.go build 1.go" />
+      <item itemvalue="Go Build.go build 2.go" />
+      <item itemvalue="Go Build.go build 1.go (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 1.go (1)" />
+        <item itemvalue="Go Build.go build 1.go" />
+        <item itemvalue="Go Build.go build 2.go" />
         <item itemvalue="Go Build.go build 506. 相对名次(12.2).go" />
         <item itemvalue="Go Build.go build 1446连续字符(12.1).go" />
-        <item itemvalue="Go Build.go build 1446连续字符.go" />
-        <item itemvalue="Go Build.go build 1. 开幕式焰火.go" />
-        <item itemvalue="Go Build.go build 786. 第 K 个最小的素数分数.go" />
       </list>
     </recent_temporary>
   </component>
