@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8305b1e0-bd08-42ad-9c20-afa0068f3f45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/每日一题/2021年12月/372. 超级次方（12.5).go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法思想/回溯算法/排列问题/47. 全排列 II.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法思想/回溯算法/模版/回溯法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法思想/回溯算法/组合问题/子集问题I.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2021年12月/1816. 截断句子(12.6).go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法思想/回溯算法/491. 递增子序列.go" beforeDir="false" afterPath="$PROJECT_DIR$/算法思想/回溯算法/排列问题/491. 递增子序列.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法思想/回溯算法/90. 子集 II.go" beforeDir="false" afterPath="$PROJECT_DIR$/算法思想/回溯算法/组合问题/90. 子集 II.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法思想/回溯算法/切割问题/93. 复原 IP 地址.go" beforeDir="false" afterPath="$PROJECT_DIR$/算法思想/回溯算法/切割问题/93. 复原 IP 地址.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法思想/回溯算法/组合问题/39. 组合总和.go" beforeDir="false" afterPath="$PROJECT_DIR$/算法思想/回溯算法/组合问题/39. 组合总和.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法思想/回溯算法/组合问题/回溯法笔记" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,11 +61,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ACwing/算法基础课/快速幂" />
       <recent name="$PROJECT_DIR$/算法思想/回溯算法/模版" />
       <recent name="$PROJECT_DIR$/算法思想/回溯算法/排列问题" />
       <recent name="$PROJECT_DIR$/算法思想/回溯算法/组合问题" />
       <recent name="$PROJECT_DIR$/ACwing/算法基础课/位运算/基本模版" />
-      <recent name="$PROJECT_DIR$/ACwing/算法基础课/2.二分/基本模版" />
     </key>
   </component>
   <component name="RunManager" selected="Go Build.go build 39. 组合总和.go">
