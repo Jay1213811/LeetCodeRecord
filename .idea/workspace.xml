@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8305b1e0-bd08-42ad-9c20-afa0068f3f45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/每日一题/2021年12月/1816. 截断句子(12.6).go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法思想/回溯算法/排列问题/46. 全排列.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法思想/回溯算法/排列问题/47. 全排列 II.go" beforeDir="false" afterPath="$PROJECT_DIR$/算法思想/回溯算法/排列问题/47. 全排列 II.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,29 +69,29 @@
       <recent name="$PROJECT_DIR$/ACwing/算法基础课/位运算/基本模版" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build 39. 组合总和.go">
-    <configuration name="go build 1.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go语言练习" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/周赛/第 270 场周赛/1.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 383. 赎金信(12.4).go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go语言练习" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/每日一题/2021年12月/383. 赎金信(12.4).go" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build 47. 全排列 II.go">
     <configuration name="go build 39. 组合总和.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go语言练习" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/算法思想/回溯算法/组合问题/39. 组合总和.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 46. 全排列.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go语言练习" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/算法思想/回溯算法/排列问题/46. 全排列.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 47. 全排列 II.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go语言练习" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/算法思想/回溯算法/排列问题/47. 全排列 II.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 5851. 找出不同的二进制字符串.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
@@ -129,19 +130,19 @@
     <list>
       <item itemvalue="Go Build.go build 5851. 找出不同的二进制字符串.go" />
       <item itemvalue="Go Build.go build Go语言LeetCode刷题 1. 开幕式焰火.go" />
-      <item itemvalue="Go Build.go build 383. 赎金信(12.4).go" />
-      <item itemvalue="Go Build.go build 1.go (2)" />
       <item itemvalue="Go Build.go build 5942. 找出 3 位偶数.go" />
       <item itemvalue="Go Build.go build 子集问题I.go" />
       <item itemvalue="Go Build.go build 39. 组合总和.go" />
+      <item itemvalue="Go Build.go build 46. 全排列.go" />
+      <item itemvalue="Go Build.go build 47. 全排列 II.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 47. 全排列 II.go" />
+        <item itemvalue="Go Build.go build 46. 全排列.go" />
         <item itemvalue="Go Build.go build 39. 组合总和.go" />
         <item itemvalue="Go Build.go build 子集问题I.go" />
         <item itemvalue="Go Build.go build 5942. 找出 3 位偶数.go" />
-        <item itemvalue="Go Build.go build 1.go (2)" />
-        <item itemvalue="Go Build.go build 383. 赎金信(12.4).go" />
       </list>
     </recent_temporary>
   </component>
@@ -463,6 +464,11 @@
           <url>file://$PROJECT_DIR$/算法思想/回溯算法/组合问题/39. 组合总和.go</url>
           <line>12</line>
           <option name="timeStamp" value="468" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/算法思想/回溯算法/排列问题/47. 全排列 II.go</url>
+          <line>15</line>
+          <option name="timeStamp" value="470" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
