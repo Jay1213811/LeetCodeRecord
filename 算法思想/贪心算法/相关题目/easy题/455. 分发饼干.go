@@ -2,18 +2,18 @@ package main
 
 import "sort"
 
-func findContentChildren(greed, size []int) (ans int) {
-	sort.Ints(greed)
-	sort.Ints(size)
-	n, m := len(greed), len(size)
-	for i, j := 0, 0; i < n && j < m; i++ {
-		for j < m && greed[i] > size[j] {
+func findContentChildren(children []int, biscuits []int) int {
+	sort.Ints(children)
+	sort.Ints(biscuits)
+	get_biscuits_children:=0
+	for i,j:=0,0;i<len(children) && j<len(biscuits);{
+		if biscuits[j]>=children[i]{
+			get_biscuits_children++
+			i++
 			j++
-		}
-		if j < m {
-			ans++
+		}else{
 			j++
 		}
 	}
-	return
+	return get_biscuits_children
 }
