@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8305b1e0-bd08-42ad-9c20-afa0068f3f45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/每日一题/2021年12月/689. 三个无重叠子数组的最大和（12.8).go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2021年12月/748. 最短补全词（12.10).go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2021年12月/794. 有效的井字游戏（12.9).go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法思想/贪心算法/相关题目/easy题/455. 分发饼干.go" beforeDir="false" afterPath="$PROJECT_DIR$/算法思想/贪心算法/相关题目/easy题/455. 分发饼干.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,21 +69,13 @@
       <recent name="$PROJECT_DIR$/ACwing/算法基础课/位运算/基本模版" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build 689. 三个无重叠子数组的最大和（12.8).go">
+  <component name="RunManager" selected="Go Build.go build 748. 最短补全词（12.10).go">
     <configuration name="go build 1034. 边界着色（12.7).go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go语言练习" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/每日一题/2021年12月/1034. 边界着色（12.7).go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 46. 全排列.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go语言练习" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/算法思想/回溯算法/排列问题/46. 全排列.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 47. 全排列 II.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -118,6 +110,14 @@
       <filePath value="$PROJECT_DIR$/每日一题/2021年12月/689. 三个无重叠子数组的最大和（12.8).go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build 748. 最短补全词（12.10).go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go语言练习" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/每日一题/2021年12月/748. 最短补全词（12.10).go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build Go语言LeetCode刷题 1. 开幕式焰火.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="Go语言练习" />
       <working_directory value="$PROJECT_DIR$/比赛/力扣杯秋季赛" />
@@ -130,19 +130,19 @@
     <list>
       <item itemvalue="Go Build.go build 5851. 找出不同的二进制字符串.go" />
       <item itemvalue="Go Build.go build Go语言LeetCode刷题 1. 开幕式焰火.go" />
-      <item itemvalue="Go Build.go build 46. 全排列.go" />
       <item itemvalue="Go Build.go build 47. 全排列 II.go" />
       <item itemvalue="Go Build.go build 1034. 边界着色（12.7).go" />
       <item itemvalue="Go Build.go build 56. 合并区间.go" />
       <item itemvalue="Go Build.go build 689. 三个无重叠子数组的最大和（12.8).go" />
+      <item itemvalue="Go Build.go build 748. 最短补全词（12.10).go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 748. 最短补全词（12.10).go" />
         <item itemvalue="Go Build.go build 689. 三个无重叠子数组的最大和（12.8).go" />
         <item itemvalue="Go Build.go build 56. 合并区间.go" />
         <item itemvalue="Go Build.go build 1034. 边界着色（12.7).go" />
         <item itemvalue="Go Build.go build 47. 全排列 II.go" />
-        <item itemvalue="Go Build.go build 46. 全排列.go" />
       </list>
     </recent_temporary>
   </component>
