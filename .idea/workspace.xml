@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8305b1e0-bd08-42ad-9c20-afa0068f3f45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/每日一题/2021年12月/709. 转换成小写字母(12.12).go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/每日一题/2021年12月/807. 保持城市天际线(12.13)*.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACwing/数据结构/1链表与邻接表：树与图的存储.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2021年12月/1518. 换酒问题(12.17).go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2021年12月/851. 喧闹和富有(12.15).go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,21 +70,13 @@
       <recent name="$PROJECT_DIR$/ACwing/算法基础课/位运算/基本模版" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build 748. 最短补全词（12.10).go">
+  <component name="RunManager" selected="Go Build.go build 851. 喧闹和富有(12.15).go">
     <configuration name="go build 1034. 边界着色（12.7).go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go语言练习" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/每日一题/2021年12月/1034. 边界着色（12.7).go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 47. 全排列 II.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go语言练习" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/算法思想/回溯算法/排列问题/47. 全排列 II.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 56. 合并区间.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -118,6 +111,14 @@
       <filePath value="$PROJECT_DIR$/每日一题/2021年12月/748. 最短补全词（12.10).go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build 851. 喧闹和富有(12.15).go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go语言练习" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/每日一题/2021年12月/851. 喧闹和富有(12.15).go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build Go语言LeetCode刷题 1. 开幕式焰火.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="Go语言练习" />
       <working_directory value="$PROJECT_DIR$/比赛/力扣杯秋季赛" />
@@ -130,19 +131,19 @@
     <list>
       <item itemvalue="Go Build.go build 5851. 找出不同的二进制字符串.go" />
       <item itemvalue="Go Build.go build Go语言LeetCode刷题 1. 开幕式焰火.go" />
-      <item itemvalue="Go Build.go build 47. 全排列 II.go" />
       <item itemvalue="Go Build.go build 1034. 边界着色（12.7).go" />
       <item itemvalue="Go Build.go build 56. 合并区间.go" />
       <item itemvalue="Go Build.go build 689. 三个无重叠子数组的最大和（12.8).go" />
       <item itemvalue="Go Build.go build 748. 最短补全词（12.10).go" />
+      <item itemvalue="Go Build.go build 851. 喧闹和富有(12.15).go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 851. 喧闹和富有(12.15).go" />
         <item itemvalue="Go Build.go build 748. 最短补全词（12.10).go" />
         <item itemvalue="Go Build.go build 689. 三个无重叠子数组的最大和（12.8).go" />
         <item itemvalue="Go Build.go build 56. 合并区间.go" />
         <item itemvalue="Go Build.go build 1034. 边界着色（12.7).go" />
-        <item itemvalue="Go Build.go build 47. 全排列 II.go" />
       </list>
     </recent_temporary>
   </component>
@@ -489,6 +490,26 @@
           <url>file://$PROJECT_DIR$/每日一题/2021年12月/689. 三个无重叠子数组的最大和（12.8).go</url>
           <line>7</line>
           <option name="timeStamp" value="474" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/每日一题/2021年12月/851. 喧闹和富有(12.15).go</url>
+          <line>5</line>
+          <option name="timeStamp" value="475" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/每日一题/2021年12月/851. 喧闹和富有(12.15).go</url>
+          <line>10</line>
+          <option name="timeStamp" value="476" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/每日一题/2021年12月/851. 喧闹和富有(12.15).go</url>
+          <line>15</line>
+          <option name="timeStamp" value="477" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/每日一题/2021年12月/851. 喧闹和富有(12.15).go</url>
+          <line>23</line>
+          <option name="timeStamp" value="478" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
