@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8305b1e0-bd08-42ad-9c20-afa0068f3f45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ACwing/数据结构/1链表与邻接表：树与图的存储.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/每日一题/2021年12月/1518. 换酒问题(12.17).go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/每日一题/2021年12月/851. 喧闹和富有(12.15).go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/周赛/第272场周赛/5956. 找出数组中的第一个回文字符串.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/周赛/第272场周赛/5957. 向字符串添加空格.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/周赛/第272场周赛/5958. 股票平滑下跌阶段的数目.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2021年12月/419. 甲板上的战舰（12.18).go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2021年12月/997. 找到小镇的法官.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,36 +65,28 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/周赛/第272场周赛" />
       <recent name="$PROJECT_DIR$/ACwing/算法基础课/快速幂" />
       <recent name="$PROJECT_DIR$/算法思想/回溯算法/模版" />
       <recent name="$PROJECT_DIR$/算法思想/回溯算法/排列问题" />
       <recent name="$PROJECT_DIR$/算法思想/回溯算法/组合问题" />
-      <recent name="$PROJECT_DIR$/ACwing/算法基础课/位运算/基本模版" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build 851. 喧闹和富有(12.15).go">
-    <configuration name="go build 1034. 边界着色（12.7).go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go语言练习" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/每日一题/2021年12月/1034. 边界着色（12.7).go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 56. 合并区间.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go语言练习" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/算法思想/贪心算法/相关题目/56. 合并区间.go" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build 5957. 向字符串添加空格.go">
     <configuration name="go build 5851. 找出不同的二进制字符串.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="Go语言练习" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/比赛/5851. 找出不同的二进制字符串.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 5957. 向字符串添加空格.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go语言练习" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/周赛/5957. 向字符串添加空格.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 689. 三个无重叠子数组的最大和（12.8).go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -128,22 +122,30 @@
       <filePath value="$PROJECT_DIR$/../Go语言LeetCode刷题|$PROJECT_DIR$/比赛/力扣杯秋季赛/1. 开幕式焰火.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go语言练习" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/每日一题/2021年12月/test.go" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Go Build.go build 5851. 找出不同的二进制字符串.go" />
       <item itemvalue="Go Build.go build Go语言LeetCode刷题 1. 开幕式焰火.go" />
-      <item itemvalue="Go Build.go build 1034. 边界着色（12.7).go" />
-      <item itemvalue="Go Build.go build 56. 合并区间.go" />
       <item itemvalue="Go Build.go build 689. 三个无重叠子数组的最大和（12.8).go" />
       <item itemvalue="Go Build.go build 748. 最短补全词（12.10).go" />
       <item itemvalue="Go Build.go build 851. 喧闹和富有(12.15).go" />
+      <item itemvalue="Go Build.go build test.go" />
+      <item itemvalue="Go Build.go build 5957. 向字符串添加空格.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 5957. 向字符串添加空格.go" />
+        <item itemvalue="Go Build.go build test.go" />
         <item itemvalue="Go Build.go build 851. 喧闹和富有(12.15).go" />
         <item itemvalue="Go Build.go build 748. 最短补全词（12.10).go" />
         <item itemvalue="Go Build.go build 689. 三个无重叠子数组的最大和（12.8).go" />
-        <item itemvalue="Go Build.go build 56. 合并区间.go" />
-        <item itemvalue="Go Build.go build 1034. 边界着色（12.7).go" />
       </list>
     </recent_temporary>
   </component>
@@ -510,6 +512,11 @@
           <url>file://$PROJECT_DIR$/每日一题/2021年12月/851. 喧闹和富有(12.15).go</url>
           <line>23</line>
           <option name="timeStamp" value="478" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/周赛/第272场周赛/5957. 向字符串添加空格.go</url>
+          <line>19</line>
+          <option name="timeStamp" value="491" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
